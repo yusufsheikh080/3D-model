@@ -1,0 +1,11 @@
+Model Information:
+* title:	McDonnell Douglas F-4 Phantom II
+* source:	https://sketchfab.com/3d-models/mcdonnell-douglas-f-4-phantom-ii-1ea38a66a59048529d27b24a570c5e07
+* author:	andertan (https://sketchfab.com/andertan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McDonnell Douglas F-4 Phantom II" (https://sketchfab.com/3d-models/mcdonnell-douglas-f-4-phantom-ii-1ea38a66a59048529d27b24a570c5e07) by andertan (https://sketchfab.com/andertan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
